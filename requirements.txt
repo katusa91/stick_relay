@@ -1,0 +1,2 @@
+aiohttp
+google-genai
