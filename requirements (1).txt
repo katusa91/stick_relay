@@ -1,0 +1,5 @@
+aiohttp
+google-genai
+sherpa-onnx
+numpy
+pvporcupine
