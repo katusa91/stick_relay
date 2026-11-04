@@ -1,2 +1,4 @@
 aiohttp
 google-genai
+sherpa-onnx
+numpy
