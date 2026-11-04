@@ -3,3 +3,4 @@ google-genai
 sherpa-onnx
 numpy
 pvporcupine
+psycopg2-binary
